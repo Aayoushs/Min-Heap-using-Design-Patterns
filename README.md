@@ -1,4 +1,4 @@
-# Min-Heap-using-Design-Patterns
+# Min-Heap-using-Deisgn-Patterns-
 
 The goal of this assignment is to improve on your assignment one and implement iterator, null 
 object, decorator and strategy patterns.
